@@ -13,3 +13,9 @@ or
 ```bash
 pip install -r requirements.txt
 ```
+
+## Running
+
+```bash
+python server.py
+```
